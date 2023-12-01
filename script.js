@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/zee.png",
+    profile_pic: "./image/arfan.jpeg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Muhammad Zeeshan",
+    Name: "Muhammad Arfan",
     designation: "Managing Director",
     des_link_text: "@Al Mazaj Computer Trading LLC",
     des_link: "",
-    contact: "./contact/madhari.vcf",
+    contact: "./contact/arfan.vcf",
 };
 
 const contact ={
-    contact_no: "+971552773305",
-    whatsapp: "+971552773305",
+    contact_no: "+971523544088",
+    whatsapp: "+971523544088",
     location: "",
-    email: "mz.macbook1@gmail.com",
+    email: "mctdxbtrading@gmail.com",
 };
 
 const profilelogo=[
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"mz.macbook1@gmail.com"
+    link:"mctdxbtrading@gmail.com"
   },
     google={
     visibil: false,
